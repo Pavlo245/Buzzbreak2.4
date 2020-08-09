@@ -1,7 +1,7 @@
 # Buzzbreak2.4
 Buzzbreak Auto Claim Point Script
 *****
-BuzzBreak : http://bit.ly/39RLP91<br> 
+BuzzBreak Apps : http://bit.ly/39RLP91<br> 
 App Cloner++ : https://drive.google.com/drive/folders/1RxclSwDoc_fPFb40FBWzwQlNub8WQVEZ?usp=sharing<br>
 How To Use a Script : https://www.youtube.com/watch?v=q_A9Zr4duMg<br>
 *****
