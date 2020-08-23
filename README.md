@@ -15,7 +15,7 @@ downloads *(this dir on your storage device)<br>
 ls<br>
 git clone https://github.com/logicjoker/Buzzbreak2.4.git<br>
 cd Buzzbreak2.4<br>
-ls
+ls<br>
 php bot.php
 
 *** Screenshot in this link : https://www.youtube.com/watch?v=q_A9Zr4duMg
